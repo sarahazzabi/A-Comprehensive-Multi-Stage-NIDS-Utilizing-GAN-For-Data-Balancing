@@ -33,12 +33,11 @@ around 99% for the f1-score, precision, and recall metrics.
 ### Dataset 
 CICIDS2018 dataset, a popular network traffic dataset for intrusion detection problems
 * Publicly available at: https://www.unb.ca/cic/datasets/ids-2018.html  
-* The sampled subsets of CICIDS2018 is included in this repo in the "data" folder.
+* The sampled subsets of CICIDS2018 is included in this repo in the "CIC-IDS-2018-Dataset" folder
 
 ## Code
-Tree-based_IDS_GlobeCom19.ipynb: code for the paper "Tree-Based Intelligent Intrusion Detection System in Internet of Vehicles"
-MTH_IDS_IoTJ.ipynb: code for the paper "MTH-IDS: A Multi-Tiered Hybrid Intrusion Detection System for Internet of Vehicles"
-LCCDE_IDS_GlobeCom22.ipynb: code for the paper "LCCDE: A Decision-Based Ensemble Framework for Intrusion Detection in The Internet of Vehicles"
+* [GAN_playground.ipynb](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/blob/main/Tree-based_IDS_GlobeCom19.ipynb) : code for testing and evaluation of different SDV provided GAN architectures 
+* [ML project.ipynb](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/blob/main/Tree-based_IDS_GlobeCom19.ipynb) : code for the full model implementation and testing, including preprocessing, feature selection, TVAE-GAN training and sampling, Binary and multiclass classifiers training and evaluation
 
 ### Machine Learning Algorithms 
 * Decision tree (DT)
