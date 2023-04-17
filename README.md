@@ -33,11 +33,11 @@ around 99% for the f1-score, precision, and recall metrics.
 ### Dataset 
 CICIDS2018 dataset, a popular network traffic dataset for intrusion detection problems
 * Publicly available at: https://www.unb.ca/cic/datasets/ids-2018.html  
-* The sampled subsets of CICIDS2018 is included in this repo in the "CIC-IDS-2018-Dataset" folder
+* The sampled subsets of CICIDS2018 is included in this repo in the "[CIC-IDS-2018-Dataset](https://github.com/sarahazzabi/A-Comprehensive-Multi-Stage-NIDS-Utilizing-GAN-For-Data-Balancing/tree/main/CIC-IDS-2018-Dataset)" folder
 
 ## Code
-* [GAN_playground.ipynb](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/blob/main/Tree-based_IDS_GlobeCom19.ipynb) : code for testing and evaluation of different SDV provided GAN architectures 
-* [ML project.ipynb](https://github.com/Western-OC2-Lab/Intrusion-Detection-System-Using-Machine-Learning/blob/main/Tree-based_IDS_GlobeCom19.ipynb) : code for the full model implementation and testing, including preprocessing, feature selection, TVAE-GAN training and sampling, Binary and multiclass classifiers training and evaluation
+* [GAN_playground.ipynb](https://github.com/sarahazzabi/A-Comprehensive-Multi-Stage-NIDS-Utilizing-GAN-For-Data-Balancing/blob/main/GAN_playground.ipynb): code for testing and evaluation of different SDV provided GAN architectures 
+* [ML project.ipynb](https://github.com/sarahazzabi/A-Comprehensive-Multi-Stage-NIDS-Utilizing-GAN-For-Data-Balancing/blob/main/ML%20project.ipynb): code for the full model implementation and testing, including preprocessing, feature selection, TVAE-GAN training and sampling, Binary and multiclass classifiers training and evaluation
 
 ### Machine Learning Algorithms 
 * Decision tree (DT)
